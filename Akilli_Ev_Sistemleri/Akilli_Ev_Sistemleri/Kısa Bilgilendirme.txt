@@ -1,0 +1,8 @@
+**Arduino İle Bluetooth Kontrollü Akıllı Ev Yapımı**Günümüzde adını sıkça duymaya başladığımız uzaktan kontrollü akıllı evler ve cihazlar hayatımıza hızla girmiş durumda. Şüphesiz ki ilerleyen süreçte daha gelişmiş versiyonlarıyla karşılaşmaya devam edeceğiz.Bu projemde akıllı evlerin ve uzaktan kontrol edilebilen akıllı cihazların çalışma mantığını basitçe anlatmak amacıyla Arduino kart ile bu devreyi ve yazılımı geliştirdim. Yapabildikleri şu şekilde:
+- Sıcaklığı hesaplayıp LCD ekrana yazdırır.
+- Servo motor kullanarak evin kapısını açıp/kapatır.
+- İç lambaları açıp/kapatır.
+- Evin içerisindeki fanı (klima) açıp/kapatır.
+- LDR aracılığıyla gece veya gündüz olduğunu algılar. Gece ise evin dışındaki lambayı otomatik açar, gündüz ise kapatır.
+- Her işlem yaptığında buzzer kullanarak bip sesi çıkarır.
+- Yaptığı işlemleri LCD ekrana yazarak kullanıcıyı bilgilendirir.
